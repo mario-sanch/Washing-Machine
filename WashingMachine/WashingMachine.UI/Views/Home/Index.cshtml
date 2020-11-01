@@ -1,0 +1,51 @@
+﻿@model FSMDomain.MachineContext
+
+<div class="grid-container">
+    <div class="upper-container">
+        <h3>Current state: @Model.CurrentState.Description</h3>
+    </div>
+
+    <div class="img-container">
+        <img src="~/images/@Model.CurrentState.Image" />
+    </div>
+
+    <div class="actions-container">
+        
+        <h3>Selecciones una accion</h3>
+
+        @foreach (var nextState in Model.CurrentState.PossibleNextState)
+        {
+            <a class="btn btn-info"
+                asp-area=""
+                asp-route-selection="@nextState.ToString()"
+                asp-controller="Home"
+                asp-action="ExecuteAction">
+                @nextState.ToString()
+            </a>
+        }
+    </div>
+</div>
+
+<style>
+    .grid-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 100px 300px 120px;
+        justify-items: center;
+    }
+
+    .upper-container {
+        padding-top: 20px;
+    }
+
+    .img-container {
+    }
+
+    img {
+        width: 290px;
+        height: 270px;
+    }
+
+    .actions-container {
+    }
+</style>

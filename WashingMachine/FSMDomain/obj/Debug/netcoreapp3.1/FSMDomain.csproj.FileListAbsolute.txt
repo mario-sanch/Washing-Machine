@@ -1,0 +1,17 @@
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\bin\Debug\netcoreapp3.1\FSMDomain.deps.json
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\bin\Debug\netcoreapp3.1\FSMDomain.dll
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\bin\Debug\netcoreapp3.1\FSMDomain.pdb
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.AssemblyInfo.cs
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.dll
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMashing\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.pdb
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\bin\Debug\netcoreapp3.1\FSMDomain.deps.json
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\bin\Debug\netcoreapp3.1\FSMDomain.dll
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\bin\Debug\netcoreapp3.1\FSMDomain.pdb
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.AssemblyInfo.cs
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.dll
+C:\Users\Mario\Desktop\ESTRUCTURAS DE DATOS 2\Semanas\Semana 9\WashingMachine\FSMDomain\obj\Debug\netcoreapp3.1\FSMDomain.pdb

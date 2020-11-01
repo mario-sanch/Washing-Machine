@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMDomain", "FSMDomain\FSMDomain.csproj", "{6765DBA1-AA80-4897-ACB7-75E23C83751B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WashingMachine.UI", "WashingMachine.UI\WashingMachine.UI.csproj", "{5A0EF9D3-C40B-4E38-BB8E-21EDCA95561E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6765DBA1-AA80-4897-ACB7-75E23C83751B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6765DBA1-AA80-4897-ACB7-75E23C83751B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6765DBA1-AA80-4897-ACB7-75E23C83751B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6765DBA1-AA80-4897-ACB7-75E23C83751B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0EF9D3-C40B-4E38-BB8E-21EDCA95561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0EF9D3-C40B-4E38-BB8E-21EDCA95561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0EF9D3-C40B-4E38-BB8E-21EDCA95561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0EF9D3-C40B-4E38-BB8E-21EDCA95561E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26052386-0264-466A-99B4-D88CDD812FE0}
+	EndGlobalSection
+EndGlobal
